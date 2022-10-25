@@ -14,7 +14,7 @@ app.get('/', (req, res) => {
 })
 
 app.get('/courses', (req, res) => {
-    request.send(courses)
+    res.send(courses)
 })
 
 app.listen(port, () => {
