@@ -1,0 +1,58 @@
+[
+    [
+        {
+            "_id": "63359086148b9f44b56660e1",
+            "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png",
+            "age": 40,
+            "time": 12,
+            "price": 56,
+            "name": "JavaScript",
+            "about": "JavaScript is the world's most popular programming language. JavaScript is the programming language of the Web. JavaScript is easy to learn.\r\n"
+        },
+        {
+            "_id": "633590864988446a4b199e93",
+            "picture": "https://play-lh.googleusercontent.com/85WnuKkqDY4gf6tndeL4_Ng5vgRk7PTfmpI4vHMIosyq6XQ7ZGDXNtYG2s0b09kJMw",
+            "age": 23,
+            "time": 6,
+            "price": 20,
+            "name": "HTML",
+            "about": "HTML is the standard markup language for Web pages. With HTML you can create your own Website. HTML is easy to learn - You will enjoy it!.\r\n"
+        },
+        {
+            "_id": "633590869b4ec2dd123ba9bf",
+            "picture": "https://i.pinimg.com/originals/eb/7e/20/eb7e20e646f5b7ec9ed4f8f78a5dee8f.png",
+            "age": 35,
+            "time": 4,
+            "price": 14,
+            "name": "CSS",
+            "about": "CSS is the language we use to style an HTML document. CSS describes how HTML elements should be displayed.\r\n"
+        },
+        {
+            "_id": "63359086d84fdc78b237930b",
+            "picture": "https://images.ctfassets.net/mrop88jh71hl/55rrbZfwMaURHZKAUc5oOW/9e5fe805eb03135b82e962e92169ce6d/python-programming-language.png",
+            "age": 32,
+            "time": 24,
+            "price": 70,
+            "name": "Python",
+            "about": "Python is often used as a support language for software developers, for build control and management, testing, and in many other ways. SCons for build control. Buildbot and Apache Gump for automated continuous compilation and testing. \r\n"
+        },
+        {
+            "_id": "633590869d11435ec39785c4",
+            "picture": "https://ubuntuhandbook.org/wp-content/uploads/2021/09/java-icon-feature.jpg",
+            "age": 27,
+            "time": 24,
+            "price": 57,
+            "name": "JAVA",
+            "about": "Java is a high-level, class-based, object-oriented programming language that is designed to have as few implementation dependencies as possible.\r\n"
+        },
+        {
+            "_id": "6335908634f3729bdd322e95",
+            "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png",
+            "age": 21,
+            "time": 20,
+            "price": 45,
+            "name": "C++",
+            "about": "C++ is a general-purpose programming language created by Danish computer scientist Bjarne Stroustrup as an extension of the C programming language.\r\n"
+        }
+    ]
+]

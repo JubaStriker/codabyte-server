@@ -1,0 +1,137 @@
+[
+    {
+        "_id": "63359086148b9f44b56660e1",
+        "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png",
+        "name": "JavaScript",
+        "price": 56,
+        "topics": [
+            "Basic syntax",
+            "Control Flow",
+            "Error handling",
+            "Data Models",
+            "Asynchronity",
+            "DOM Manipulation",
+            "Functional Approach",
+            "Frontend Framework"
+        ],
+        "premium": [
+            "Node.js",
+            "Express",
+            "Backend",
+            "Certificate"
+        ]
+    },
+    {
+        "_id": "633590864988446a4b199e93",
+        "picture": "https://play-lh.googleusercontent.com/85WnuKkqDY4gf6tndeL4_Ng5vgRk7PTfmpI4vHMIosyq6XQ7ZGDXNtYG2s0b09kJMw",
+        "name": "HTML",
+        "price": 20,
+        "topics": [
+            "Basic Tutorial",
+            "HTML Forms",
+            "HTML Graphics",
+            "HTML Media",
+            "HTML APIs",
+            "HTML Examples",
+            "HTML References"
+        ],
+        "premium": [
+            "Building professional page",
+            "Interview preparation",
+            "Quizzes",
+            "Certificate"
+        ]
+    },
+    {
+        "_id": "633590869b4ec2dd123ba9bf",
+        "picture": "https://i.pinimg.com/originals/eb/7e/20/eb7e20e646f5b7ec9ed4f8f78a5dee8f.png",
+        "name": "CSS",
+        "price": 14,
+        "topics": [
+            "Basic Tutorial",
+            "HTML Essentials",
+            "Forms and tables",
+            "Typography and background",
+            "Adding media and text to a web page"
+        ],
+        "premium": [
+            "Responsive design",
+            "Animation",
+            "Frameworks",
+            "Certificate"
+        ]
+    },
+    {
+        "_id": "63359086d84fdc78b237930b",
+        "picture": "https://images.ctfassets.net/mrop88jh71hl/55rrbZfwMaURHZKAUc5oOW/9e5fe805eb03135b82e962e92169ce6d/python-programming-language.png",
+        "name": "Python",
+        "price": 70,
+        "topics": [
+            "Basic syntax",
+            "Data types",
+            " Arrays",
+            "Classes and Objects",
+            "Constructors and Destructors",
+            "Inheritance",
+            "Python Iterator",
+            "Python Property",
+            "Python RegEx",
+            "OOP"
+        ],
+        "premium": [
+            "Backend",
+            "Django",
+            "Interview preparation",
+            "Certificate"
+        ]
+    },
+    {
+        "_id": "633590869d11435ec39785c4",
+        "picture": "https://ubuntuhandbook.org/wp-content/uploads/2021/09/java-icon-feature.jpg",
+        "name": "JAVA",
+        "price": 57,
+        "topics": [
+            "Basic syntax",
+            "Data types",
+            "Variables",
+            " Arrays",
+            "Operators and control statements",
+            "Inheritance",
+            "String handling",
+            "OOP",
+            "Servlets",
+            "EJB"
+        ],
+        "premium": [
+            "Web services",
+            "Database connectivity",
+            "JSP",
+            "Interview preparation",
+            "Certificate"
+        ]
+    },
+    {
+        "_id": "6335908634f3729bdd322e95",
+        "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png",
+        "name": "C++",
+        "price": 45,
+        "topics": [
+            "Basic syntax",
+            "C++ type system",
+            "Scope",
+            "Translation units and linkage",
+            "Main function and command-line arguments",
+            "Program termination",
+            "Lvalues and rvalues",
+            "Temporary objects",
+            "Alignment"
+        ],
+        "premium": [
+            "Good Class Design",
+            "Composition",
+            "Composition vs. Private Inheritance",
+            "Interview preparation",
+            "Certificate"
+        ]
+    }
+]
